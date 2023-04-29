@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Antonio Maldonado Diaz
-- 👀 I’m interested in Informatica
+- 👀 I’m interested in the Informatica
 - 🌱 I’m currently learning program Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... I'don't know
 - 📫 How to reach me ...
 
 <!---
