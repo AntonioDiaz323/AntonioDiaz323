@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Antonio de Jesus Maldonado Diaz
-- 👀 I’m interested in the Informatica
 - 🌱 I’m currently learning:
 - 💞️ I’m looking to collaborate on ... I'don't know
 - 📫 How to reach me ...
